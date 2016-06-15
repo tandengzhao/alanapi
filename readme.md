@@ -70,37 +70,58 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 https://github.com/saiwu-bigkoo/Android-SVProgressHUD
 
 https://github.com/cpoopc/ScrollableLayout
+
 https://github.com/litesuits/android-common
+
 https://github.com/Trinea/android-common
+
 https://github.com/lzyzsd/Awesome-RxJava
+
 https://github.com/xingrz/GankMeizhi
+
 https://github.com/jiangqqlmj/FastDev4Android
 
 https://github.com/wequick/Small
+
 https://github.com/wanliLiu/ScrollVertialTextView
+
 https://github.com/harichen/PullToRefreshLibrary
+
 https://github.com/gabrielemariotti/RecyclerViewItemAnimators
+
 https://github.com/jarlen/PhotoEditDemo
+
 https://github.com/maurycyw/StaggeredGridView
+
 https://github.com/motianhuo/VCameraDemo
+
 https://github.com/CyberAgent/android-gpuimage
+
 https://github.com/kongnanlive/android-combination-avatar
 
 https://github.com/frogermcs/LikeAnimation
+
 https://github.com/CycloneAxe/phphub-android
+
 https://github.com/survivingwithandroid/Surviving-with-android
+
 https://github.com/matthewrkula/AnimatedPathView
+
 https://github.com/Kaopiz/KProgressHUD
 
 https://github.com/dmitry-zaitsev/CircleLayout
+
 https://github.com/wangjia55/CircleLayoutMenu
+
 https://github.com/hongyangAndroid/Android-CircleMenu
 
 
 https://github.com/D-clock/AndroidUtils
 
 Model-View-Presenter and RxJava 
+
 https://github.com/konmik/nucleus
+
 https://github.com/liuyanggithub/SuperMvp.git
 
 https://github.com/plattysoft/Leonids
@@ -108,6 +129,7 @@ https://github.com/plattysoft/Leonids
 https://github.com/Jacksgong/JKeyboardPanelSwitch.git
 
 https://github.com/nekocode/Toolbox
+
 https://github.com/nekocode/kotgo
 
 
@@ -117,6 +139,7 @@ http://git.oschina.net/bob4j/Android-UI
 https://github.com/openproject/LessCode
 
 Loading 加载动画
+
 https://github.com/ybq/Android-SpinKit
 
 
@@ -135,14 +158,18 @@ https://github.com/maning0303/MClearEditText
 
 =========================================================================   相册
 https://github.com/D-clock/AndroidAlbum
+
 http://git.oschina.net/z8806c/ImagePicker
+
 https://github.com/pengjianbo/GalleryFinal
+
 https://github.com/easonline/AndroidImagePicker
 
 
 
 =========================================================================  ListView
 https://github.com/sfsheng0322/StickyHeaderListView
+
 https://github.com/lucasr/twoway-view
 
 
@@ -153,6 +180,7 @@ https://github.com/sephiroth74/ImageViewZoom
 
 
 https://github.com/dkhamsing/open-source-ios-apps
+
 https://github.com/pcqpcq/open-source-android-apps
 
 
@@ -160,17 +188,29 @@ https://github.com/pcqpcq/open-source-android-apps
 
 
 https://github.com/gabrielemariotti/cardslib
+
 https://github.com/kikoso/Swipeable-Cards
+
 https://github.com/xmuSistone/android-card-slide-panel
+
 https://github.com/card-io/card.io-Android-SDK
+
 https://github.com/card-io/card.io-Android-source
+
 https://github.com/xiepeijie/SwipeCardView
+
 https://github.com/MartinRGB/GiftCard-Android
+
 https://github.com/mxn21/SlidingCard
+
 https://github.com/vinaygaba/CreditCardView
+
 https://github.com/wujingchao/MultiCardMenu
+
 https://github.com/taoliuh/CardSlidePanel
+
 https://github.com/chiemy/CardView
+
 https://github.com/michelelacorte/SwipeableCard
 
 ======================================================================  Android 银行卡识别
@@ -186,10 +226,15 @@ https://github.com/qpython-android/QConsole
 
 ======================================================================  Android应用多开
 https://github.com/wuhx/shelldroid
+
 https://github.com/M66B/XPrivacy
+
 https://github.com/rovo89/XposedBridge
+
 https://github.com/rovo89/Xposed
+
 https://github.com/fkzhang/WechatUnrecalled
+
 http://repo.xposed.info/
 
 
@@ -199,18 +244,24 @@ https://github.com/CankingApp/XiaomiPJ
 
 
 https://github.com/hitherejoe/Bourbon
+
 https://github.com/hitherejoe/animate
+
 https://github.com/hitherejoe/Android-Boilerplate
+
 https://github.com/ribot/android-boilerplate
 
 
 https://github.com/ribot/ribot-app-android
+
 https://github.com/ribot/easy-adapter
+
 https://github.com/ribot/android-guidelines
 
 
 
 https://github.com/Yasic/QQBubbleView     点赞效果
+
 http://git.oschina.net/z8806c/HeartLayout
 
 
@@ -235,18 +286,28 @@ https://github.com/uservoice/uservoice-android-sdk
 
 
 https://github.com/umano/AndroidSlidingUpPanel
+
 https://github.com/alamkanak/Android-Week-View
 
 
 https://github.com/novoda
+
 https://github.com/ribot
+
 https://github.com/QUSEIT
+
 https://github.com/qpython-android
+
 https://github.com/appcelerator/titanium_mobile
+
 https://github.com/wordpress-mobile
+
 https://github.com/JakeWharton/Telecine    屏幕录像
+
 https://github.com/pockethub/PocketHub
+
 https://github.com/owncloud/android
+
 https://github.com/TonicArtos/FilePicker  文件管理
 
 
@@ -261,66 +322,99 @@ https://github.com/maning0303/ConnectListView
 
  蓝牙
 https://github.com/thenewcircle/bluetoothgatt
+
 https://github.com/googlesamples/android-BluetoothLeGatt
 
 
 Material--Design
 https://github.com/lightSky/Awesome-MaterialDesign
+
 https://github.com/lightSky/Awesome-MaterialDesign
+
 https://github.com/simple-android-framework/android_design_patterns_analysis
+
 https://github.com/balysv/material-ripple
+
 https://github.com/Sottti/MaterialDesignNavDrawer
+
 https://github.com/rudsonlive/NavigationDrawer-MaterialDesign
+
 https://github.com/cesarferreira/RxPeople
+
 https://github.com/rey5137/material
+
 https://github.com/ogaclejapan/SmartTabLayout
+
 https://github.com/navasmdc/MaterialDesignLibrary
+
 https://github.com/android-cjj/Android-MaterialRefreshLayout
+
 https://github.com/aurelhubert/ahbottomnavigation
+
 https://github.com/lgvalle/Material-Animations
+
 https://github.com/afollestad/material-dialogs
+
 https://github.com/nuuneoi/Lab-Android-DesignLibrary
 
 
 
 https://github.com/h3clikejava/AndroidPhotoClip    图片处理
+
 https://github.com/wuhaoyu1990/MagicCamera
 
 
 
 https://github.com/Modificator/water-wave-progress
+
 https://github.com/wangjinyu501/WaterWaveView
+
 https://github.com/naman14/WashingMachineView
+
 https://github.com/john990/WaveView
+
 https://github.com/ksoichiro/Android-ObservableScrollView
+
 https://github.com/ksoichiro/Android-ObservableScrollView
+
 https://github.com/stormzhang/BooheeToolbar
 
 https://github.com/MiguelCatalan/MaterialSearchView
 
 
 https://github.com/JohnPersano/SuperToasts
+
 https://github.com/keyboardsurfer/Crouton
 
 
 =====================================================================Keyboard 键盘
 https://github.com/Jacksgong/JKeyboardPanelSwitch
+
 https://github.com/Jacksgong/JKeyboardPanelSwitch
 
 
 https://github.com/novoda/material-painter
+
 https://github.com/novoda/snowy-village-wallpaper
 
 
 ========================================================================= Markdown编辑器
 https://github.com/tylingsoft/markdown-plus
+
 https://github.com/pandao/editor.md
+
 https://github.com/jserme/mahua.git
+
 https://github.com/joemccann/dillinger.git
+
 https://github.com/MacDownApp/macdown.git
+
 https://github.com/jserme/mahua
+
 https://github.com/dvcrn/markright
+
 https://github.com/toopay/bootstrap-markdown
+
 https://github.com/lruiz/MarkdownPapers       Java MarkDown解析
 
 
@@ -329,20 +423,33 @@ https://github.com/aol/micro-server
 
 Blog----CMS
 https://github.com/Raysmond/SpringBlog
+
 https://github.com/Raysmond/expper
+
 https://github.com/JoneXiong/oejia_wx
+
 https://github.com/wewoor/ZBLOG
+
 https://github.com/b3log/solo
+
 https://github.com/caipiao/Lottery
+
 https://github.com/villins/Blog
+
 https://github.com/dreambt/cms4j
 
 http://git.oschina.net/smiledog/SuprBlog
+
 http://git.oschina.net/stephenson37/tg-cms
+
 http://git.oschina.net/doubanbook/mtons
+
 http://git.oschina.net/mtons/mblog
+
 http://git.oschina.net/sanluan/PublicCMS
+
 http://git.oschina.net/mingSoft/MCMS
+
 http://git.oschina.net/stephenson37/tg-cms
 
 
