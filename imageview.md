@@ -9,3 +9,7 @@
 
 ##https://github.com/nicewarm/WeChatImageClipping
 ![nicewarm](./imageview/3-0.png "WeChatImageClipping")
+
+
+##https://github.com/angeldevil/ChatImageView
+![angeldevil](./imageview/4-0.png "ChatImageView")
