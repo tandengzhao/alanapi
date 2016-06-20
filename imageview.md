@@ -5,3 +5,7 @@
 ##https://github.com/leibnik/ChatImageView
 ![leibnik](./imageview/2-0.gif "ChatImageView")
 ![leibnik](./imageview/2-1.jpeg "ChatImageView")
+
+
+##https://github.com/nicewarm/WeChatImageClipping
+![nicewarm](./imageview/3-0.gif "WeChatImageClipping")
