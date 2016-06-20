@@ -8,4 +8,4 @@
 
 
 ##https://github.com/nicewarm/WeChatImageClipping
-![nicewarm](./imageview/3-0.gif "WeChatImageClipping")
+![nicewarm](./imageview/3-0.png "WeChatImageClipping")
