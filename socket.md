@@ -10,3 +10,5 @@
 ##https://github.com/clwillingham/java-socket.io.client
 
 ##https://github.com/socketio/engine.io-client-java
+
+##https://github.com/socketio/socket.io-client-java
