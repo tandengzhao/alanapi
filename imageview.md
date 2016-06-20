@@ -13,3 +13,7 @@
 
 ##https://github.com/angeldevil/ChatImageView
 ![angeldevil](./imageview/4-0.png "ChatImageView")
+
+
+##https://github.com/habzy/BubbleImageView
+![habzy](./imageview/5-0.png "BubbleImageView")
