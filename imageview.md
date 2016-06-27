@@ -1,5 +1,5 @@
 ## https://github.com/hdodenhof/CircleImageView
-![wasabeef](./imageview/0-0.png =100x150 "CircleImageView" )
+![wasabeef](./imageview/0-0.png =100x150 )
 
 
 ## https://github.com/vivian8725118/ChatImageViewDemo
